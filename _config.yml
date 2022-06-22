@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "ailatte coding journal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ai-latte"
+name                     : "ailatte"
 description              : "An amazing website."
 url                      : "https://ai-latte.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
