@@ -105,8 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "aelatte"
-  avatar           : "![P20210807_123134073_BD64381D-CB76-4F71-8DC6-23836A5724EB](https://user-images.githubusercontent.com/107900148/176859647-d55cdf3e-4aed-4654-818b-af4186fc1318.JPG)
-"
+  avatar           : "/assets/latte.JPG"
   # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "South Korea"
