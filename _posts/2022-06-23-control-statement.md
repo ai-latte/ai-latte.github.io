@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "0623 java control statement"
 excerpt: "if/elseif/switch/for/while"
 published : true
