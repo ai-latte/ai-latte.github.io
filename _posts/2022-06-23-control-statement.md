@@ -2,6 +2,9 @@
 layout: single
 title: "0623 java control statement"
 excerpt: "if/elseif/switch/for/while"
+published : true
+categories : 
+  - java
 ---
 
 
