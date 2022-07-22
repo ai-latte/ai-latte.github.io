@@ -10,3 +10,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "블로그"
+        url: "/blog"
+      - title: "java"
+        url:  "/java"
+      - title: "SQL"
+        url:  "/sql"
