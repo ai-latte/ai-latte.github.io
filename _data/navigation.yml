@@ -11,11 +11,11 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   sidebar-category:
-  - title: "카테고리"
+  - title: "Archive"
     children:
-      - title: "블로그"
-        url: "/blog"
+      - title: "BLOG"
+        url: "/blog/"
       - title: "java"
-        url:  "/java"
+        url:  "/java/"
       - title: "SQL"
-        url:  "/sql"
+        url:  "/sql/"
