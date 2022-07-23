@@ -1,8 +1,10 @@
 ---
 published: true
-layout: single
+layout: archive
 title: "0711 java exception"
 excerpt: "exception"
+categories :
+    - java
 ---
 
 # exception
